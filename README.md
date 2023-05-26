@@ -1,4 +1,4 @@
-# Text-detector
+# Text Recognizer
 ## Requirement
 1. Opencv
 2. PyAutoGUI
